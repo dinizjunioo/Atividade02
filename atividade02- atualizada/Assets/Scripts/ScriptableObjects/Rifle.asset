@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04367dc483ec42a4797e6ae16a62d778, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  id: 2
+  description: "\xE9 um rifle"
+  tipo: 0
+  itemNome: Rifle
+  prefab: {fileID: 1664282050375679047, guid: 26a956a67dcc11e49a737dfad7ca77cb, type: 3}
+  icon: {fileID: 2800000, guid: d1b703fd59caa304a9af5ad228564416, type: 3}

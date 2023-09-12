@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c88294c018edc4b488d25423d121807f, type: 3}
+  m_Name: Rifle2
+  m_EditorClassIdentifier: 
+  bala: {fileID: 9055609878557151838, guid: 0bb3278650bf4d04e87f977af86c3dd6, type: 3}
+  ammunitionTypes: 2
+  gunName: Rifle
+  gunPrefab: {fileID: 1664282050375679047, guid: 26a956a67dcc11e49a737dfad7ca77cb, type: 3}
+  gunPickup: {fileID: 2183387033363720911, guid: 978c03c6907efff418f841fa07e683df, type: 3}
+  audioClip:
+  - {fileID: 8300000, guid: f8a40aecdf747af4cb189a800668af69, type: 3}
+  EnergiaCinetica: 149
+  massa: 0.2
+  bullets: 30
+  minimumDamage: 30
+  maximumDamage: 50
+  maximumRange: 15
+  fireRate: 5
